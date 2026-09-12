@@ -1,0 +1,16 @@
+{
+  "name": "express-basics-assignment",
+  "version": "1.0.0",
+  "description": "Express.js Basics Assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
